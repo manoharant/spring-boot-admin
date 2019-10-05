@@ -10,7 +10,7 @@
     "dev-server": "webpack-dev-server --port 9090 --host 0.0.0.0"
   },
   "dependencies": {
-    "angular": "1.5.8",
+    "angular": "1.6.5",
     "angular-resource": "1.5.8",
     "angular-sanitize": "1.5.8",
     "angular-ui-router": "0.3.2",
