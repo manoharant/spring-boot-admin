@@ -13,7 +13,7 @@
     "angular": "1.5.8",
     "angular-resource": "1.5.8",
     "angular-sanitize": "1.5.8",
-    "angular-ui-router": "0.3.2",
+    "angular-ui-router": "1.0.4",
     "es6-shim": "0.35.1",
     "eventsource-polyfill": "0.9.6",
     "font-awesome": "4.7.0",
